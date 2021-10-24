@@ -13,7 +13,7 @@
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Charith+Bot&font=Fira%20Code&center=true&width=380&height=50">
 
 </a>
 <p align="center">
@@ -135,25 +135,25 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Charith_Broh-CharithX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
+ ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Charith-X😈)***
 <a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+14382551507">
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17722181933">
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17723534981">
+<a href="https://Wa.me/+704237626">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
@@ -165,8 +165,8 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ### 🚀Amazone Alexa Team
 
-[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94704237626) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+94704237626) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ransika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Ganster-blue.svg)](https://Wa.me/)
