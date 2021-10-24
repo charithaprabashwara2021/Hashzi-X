@@ -14,7 +14,7 @@
 Project of  😈Charithbot - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
 
 <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
+        <a href="https://Wa.me/+94704237626">CharithBro Whatsapp </a> |
   
 `<Enjoy & stay safe stay home>`
 </p>
@@ -132,7 +132,7 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Charith_Broh-CharithX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
 ( Charith_Bro(Charith-X😈)
 <a href="https://Wa.me/+94704237626">
