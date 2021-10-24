@@ -3,7 +3,7 @@
   [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
-<h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
+<h1 align="center"><b> 😈Charith bot(ᴠɪᴘ)  </b></h1>
 
 
 </p>
@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 </a>
-Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+Project of  😈Charithbot - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
 
 <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
@@ -63,7 +63,7 @@ Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94786598862">
+  <a href="https://wa.me/94704237626">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
@@ -74,7 +74,7 @@ Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made
 ### Simple method 
 
 #### You can easily get the QR code Repl.it .. Click the button below
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Charithproducti/Charithbot-1#index.js)
 
 `You need 2 mobile phones to build the Neotro-x  bot!
 You will run the bot from the second device.
@@ -89,8 +89,8 @@ From the first device you need to install Neotro-x  Bot.`
 
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Amazone Alexa
-🦹‍♀️Here is the Amazone  bot features
+# 🚀Charithbot
+🦹‍♀️Here is the Bot  bot features
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -135,23 +135,23 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
-( Chethana_Bro(Teenuh-X😈)
-<a href="https://Wa.me/+94766598862">
+( Charith_Bro(Charith-X😈)
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+14382551507">
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17722181933">
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17723534981">
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
@@ -161,10 +161,10 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
 
-### 🚀Amazone Alexa Team
+### 🚀Charith bot Team
 
-[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94704237626) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+94704237626) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ranahansika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 
