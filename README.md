@@ -1,6 +1,6 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/charithaprabashwara2021/Hashzi-X/edit/main/README.md-SI.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/charithaprabashwara2021/Hashzi-X/edit/main/README.md)
     
 </a>          
 
@@ -17,10 +17,10 @@
 
 </a>
 <p align="center">
-    Project of 😈 Charith boy🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Charith botයනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    Project of 😈 Charith bot🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Charith botයනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/DtLe4ADEOKDB5koqHWgsjo">Support Group</a> |
-        <a href="https://Wa.me/+94704237626">ChethanaBro Whatsapp </a> |
+        <a href="https://Wa.me/+94704237626">CharithBro Whatsapp </a> |
    </a>    
         
   <p align="center">
@@ -76,14 +76,14 @@
   </a>
 </p>
 
-### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
+### 😈ක්රියාත්මක කරන්නෙ කෙසේද??
 
 #### සරල ක්‍රමය
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Charithproducti/Charithbot-1#index.js)
 ```
-Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+Charith bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
 ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
 ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
 පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
@@ -96,7 +96,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
 > [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Amazone පහසුකම් ලැයිස්තුව
+# 🚀Charithbot පහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -138,7 +138,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
  ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
-<a href="https://Wa.me/+94766598862">
+<a href="https://Wa.me/+94704237626">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
