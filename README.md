@@ -8,7 +8,7 @@
 </a>
 
 ![logo](https://fzstream.techwizardent.com/90054)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 😈Charith bot (ᴠɪᴘ) </b></h1>
 
 </a>
              
@@ -17,10 +17,10 @@
 
 </a>
 <p align="center">
-    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    Project of 😈 Charith boy🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Charith botයනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
+        <a href="https://chat.whatsapp.com/DtLe4ADEOKDB5koqHWgsjo">Support Group</a> |
+        <a href="https://Wa.me/+94704237626">ChethanaBro Whatsapp </a> |
    </a>    
         
   <p align="center">
@@ -29,11 +29,11 @@
    </a>
 </p>
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/>
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
