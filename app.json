@@ -1,14 +1,14 @@
 {
-    "name": "Amazone Alexa V8",
-    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "name": "Charith bot",
+    "description": "Charithbot is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "logo": "https://telegra.ph/Charith-bot-11-08.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Charith bot"],
+    "repository": "https://chat.whatsapp.com/E7mFs4003Jq8LWXXQWGYGD",
+    "website":   "https://chat.whatsapp.com/E7mFs4003Jq8LWXXQWGYGD",
+    "success_url": "https://chat.whatsapp.com/E7mFs4003Jq8LWXXQWGYGD",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "CHARITH BOT_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
@@ -29,9 +29,9 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "😈©charithbot"
         },
-        "FULL_ALEXA": {
+        "FULL_BOT": {
             "description": "Activate alexa chat bot",
             "required": false,
             "value": "false"
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "Made By 😈Charith bot"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -147,7 +147,7 @@
         "EMOJI_COMMAND": {
             "description": "You can change Command list emojis.)",
             "required": true,
-            "value": "👸"
+            "value": "🤴"
         },
         "EMOJI_DESCRIPTION": {
             "description": "You can change command list emojis.)",
@@ -236,7 +236,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "😈 Charirh bot commando list "
         }
     },
     "addons": [{
