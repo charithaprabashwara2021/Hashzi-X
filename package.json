@@ -1,8 +1,8 @@
 {
-  "name": "Hashzi-1",
+  "name": "Charith-1",
   "version": "1.3.2",
   "description": "Amazone project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./Hashzi-1/bot.js",
+  "main": "./Charith-1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
