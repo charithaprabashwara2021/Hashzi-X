@@ -1,7 +1,7 @@
 /* Copyright (C) 2021 CHARITH-charithbot.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-NEOTROX - TEENUHX
+Charith bot - Charith
 */
 
 const fs = require("fs");
