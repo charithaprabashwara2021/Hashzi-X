@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 😈Charith bot"
+            "value": "Made By 😈Charith"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -167,7 +167,7 @@
         "PANEL_COMMAND": {
             "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
             "required": true,
-            "value": "alexa"
+            "value": "bot"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
