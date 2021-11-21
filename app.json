@@ -32,7 +32,7 @@
             "value": "😈©charithbot"
         },
         "FULL_BOT": {
-            "description": "Activate alexa chat bot",
+            "description": "Activate charith chat bot",
             "required": false,
             "value": "false"
         },
